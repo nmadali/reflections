@@ -23,3 +23,13 @@ What value do you think it offers?
 
 	The value it offers is based on the fact that you can choose which files to
 	commit and whitch not to - it offers flexibility and freedom of choice. :)
+
+
+
+
+Q:	How can you use the staging area to make sure you have one commit per
+logical change?
+	If a logical change requires a change in only one file (or only some files),
+then the staging area lets you commit only those files - thus, your commits can
+be as required ;).
+
