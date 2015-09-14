@@ -12,3 +12,14 @@ Q:	What happens when you initialize a repository? Why do you need to do it?
 
 
 
+Q:	How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	The staging area is different from by working directory by the fact that it
+	stores only the files that are to be committed, instead of all the files
+	that we are working on.
+	The staging area is different by the repository in the sense that the files
+	in it are not yet committed.
+
+	The value it offers is based on the fact that you can choose which files to
+	commit and whitch not to - it offers flexibility and freedom of choice. :)
