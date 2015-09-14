@@ -1,0 +1,14 @@
+Q:	What happens when you initialize a repository? Why do you need to do it?
+
+	When you initialize a repo with git init, the .git directory is created and
+	git is starting to save metadata about that directory - this is what makes
+	it a repository, instead of a simple directory. :)
+
+	When running git init, no commit is made. Just a simple, empty repo.
+
+	I need to run git init in order to be able to make commits and enjoy all the
+	features of GIT. :)
+
+
+
+
