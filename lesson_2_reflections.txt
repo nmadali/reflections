@@ -57,3 +57,12 @@ Q:	How do the diagrams help you visualize the branch structure?
 	visualize each branch and the relationships between them.
 
 
+
+
+Q:	What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	The result is a commit that includes the changes made in both the branches
+	'till the tip of them. We represend them as we do in the diagram because the
+	new commit has two parents, not only one, so we must capture that in the
+	diagram.
