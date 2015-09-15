@@ -66,3 +66,14 @@ the diagram the way we do?
 	'till the tip of them. We represend them as we do in the diagram because the
 	new commit has two parents, not only one, so we must capture that in the
 	diagram.
+
+
+Q:	What are the pros and cons of Git’s automatic merging vs. always doing
+merges manually?
+
+	Automatic merging is very useful, because it does it almost automatically &
+	effortless from the point of view of the programmer.
+
+	Although i see automatic merging as very useful, i know that it sometimes is
+	impossible to to it automatically, so you just need to do a merge manually.
+	So this skill, of manual merging, is also important. :)
