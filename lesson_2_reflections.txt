@@ -48,3 +48,12 @@ history organized? How would branches help?
 	  original version.
 	- developing the original version in more different versions which solve
 	  different purposes.
+
+
+
+Q:	How do the diagrams help you visualize the branch structure?
+
+	With diagrams I can draw the branch structure using a tree. This helps me
+	visualize each branch and the relationships between them.
+
+
