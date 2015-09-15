@@ -3,3 +3,18 @@ automatically stay up-to-date with your remote repository?
 
 	Because if Git would automatically pull, then it could do it in the middle
 	of my work, and i would just lose the sight of what i was doing :)).
+
+
+
+Q:	Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+	Branches operate on commits and are made to separate commits one from
+	another (for example if they have different purposes).
+
+	Clones operate on repositories and are made to copy (clone) a repository
+	that is found online or on another machine.
+
+	Forks operate on repositories and are made to copy (clone) a repository that
+	is found online (on github) into a new repository on the profile of the user
+	that forks.
