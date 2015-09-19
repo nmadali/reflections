@@ -18,3 +18,17 @@ use one instead of another?
 	Forks operate on repositories and are made to copy (clone) a repository that
 	is found online (on github) into a new repository on the profile of the user
 	that forks.
+
+
+
+Q:	What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+	It lets you know if the current state of the Github repo is ahead of (not in
+	sync with) the current state of the local copy of the remote, os it's a very
+	good way to know when a sync is needed.
+
+	It also gives a way to combine changes made by the members of the team. If
+	one updates the remote and the other updates the local, they can combine
+	changes using the local copy of the remote. Fetching, then merging, and
+	maybe then pushing the new, combined version.
